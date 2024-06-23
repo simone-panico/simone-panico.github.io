@@ -75,7 +75,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-To start learning a new programming language, I decided to create a Todo List App using SwiftUI, Swift, and Firebase. Throughout this journey, I've picked up a lot of new skills and knowledge in programming with Swift and integrating Firebase for backend services.
+aTo start learning a new programming language, I decided to create a Todo List App using SwiftUI, Swift, and Firebase. Throughout this journey, I've picked up a lot of new skills and knowledge in programming with Swift and integrating Firebase for backend services.
 
 Building the Todo List App made me dive deep into the features of SwiftUI, which is Apple's modern framework for building user interfaces across all their platforms. SwiftUI's declarative syntax let me create intuitive and responsive UIs with less code, which was pretty cool compared to traditional UI development. It made the process way more fun and productive.
 
