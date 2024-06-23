@@ -252,6 +252,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
+  - jekyll-polyglot
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-tabs
@@ -372,6 +373,17 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+
+# -----------------------------------------------------------------------------
+# Jekyll Polyglot
+# -----------------------------------------------------------------------------
+
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+lang_from_path: true
+country_flag: false # set true for allowing flag symbol in language toggle
+parallel_localiza tion: false
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
