@@ -33,7 +33,7 @@
     ]
   },
   "work": [
-/*     {
+    /*     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
@@ -44,7 +44,7 @@
     } */
   ],
   "volunteer": [
-/*     {
+    /*     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
@@ -67,7 +67,7 @@
     }
   ],
   "awards": [
-/*     {
+    /*     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
       "awarder": "Royal Swedish Academy of Sciences",
@@ -76,7 +76,7 @@
     } */
   ],
   "certificates": [
-/*     {
+    /*     {
       "name": "Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
@@ -120,7 +120,7 @@
     } */
   ],
   "publications": [
-/*     {
+    /*     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
       "releaseDate": "1905-06-30",
@@ -147,16 +147,8 @@
       "name": "Computer Science",
       "level": "Intermediate",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Javascript",
-        "Python",
-        "Java",
-        "Swift",
-        "PyTorch",
-        "SQL",
-        "Git"
-      ]
-    }    
+      "keywords": ["Javascript", "Python", "Java", "Swift", "PyTorch", "SQL", "Git"]
+    }
   ],
   "languages": [
     {
@@ -184,18 +176,11 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Computer Vision",
-        "Algorithms"
-      ]
-    }    
+      "keywords": ["Software Engineering", "Artificial Intelligence", "Machine Learning", "Data Science", "Computer Vision", "Algorithms"]
+    }
   ],
   "references": [
-/*     {
+    /*     {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
@@ -207,7 +192,7 @@
     } */
   ],
   "projects": [
-/*     {
+    /*     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],

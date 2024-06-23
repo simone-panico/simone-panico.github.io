@@ -34,11 +34,7 @@ At the beginning I have one choice to make that could change my whole journey. D
 </table>
 <br>
 
-
 Although UIKit is preferred by most companies, because most older apps still use it, I decided to learn SwiftUI
-
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

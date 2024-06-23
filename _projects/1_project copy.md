@@ -63,7 +63,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 Here is a table example:
 
 | Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
+| -------- | -------- | -------- |
 | Row 1    | Data 1   | Data 1   |
 | Row 2    | Data 2   | Data 2   |
 | Row 3    | Data 3   | Data 3   |
@@ -85,4 +85,5 @@ Here's the code for the last row of images above:
   </div>
 </div>
 ```
+
 {% endraw %}
