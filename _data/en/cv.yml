@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Simone Panico
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th August 2006
     - name: Languages
-      value: English, German
+      value: English, German, Italian, French
 
 - title: Education
   type: time_table
