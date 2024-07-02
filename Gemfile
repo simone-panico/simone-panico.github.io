@@ -22,6 +22,7 @@ group :jekyll_plugins do
   gem 'mini_racer'
   gem 'unicode_utils'
   gem 'webrick'
+  gem 'jekyll-sass-converter', '~> 3.0.0' # or the latest compatible version
 end
 
 group :other_plugins do
