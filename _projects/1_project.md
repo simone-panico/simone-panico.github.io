@@ -51,6 +51,8 @@ As a code design pattern I used the MVVM (Model-View-ViewModel) architecture bec
 
 Overall this Project boosted my experience in Swift and also in my programming skills. It's a really good beginner app where you can learn the basics of a Programming Language (not only Swift)
 
+:)
+
 {% if site.data.repositories.1_project %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
