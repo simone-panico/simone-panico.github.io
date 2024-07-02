@@ -23,6 +23,7 @@ group :jekyll_plugins do
   gem 'unicode_utils'
   gem 'webrick'
   gem 'jekyll-sass-converter', '~> 3.0.0' # or the latest compatible version
+  gem 'nokogiri', '~> 1.15.2'
 end
 
 group :other_plugins do
